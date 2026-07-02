@@ -1,0 +1,12 @@
+python-dotenv
+requests
+openai
+langchain
+langchain_openai
+langgraph>=0.6
+streamlit
+
+# Optional - only for the Databricks variants (chatbot_databricks.py / app.yaml):
+# databricks-sql-connector
+# databricks-langchain
+# databricks-sdk
